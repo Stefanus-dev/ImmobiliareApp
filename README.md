@@ -54,3 +54,11 @@ Apri il terminale nella cartella del progetto e lancia:
 
 ```bash
 python main.py
+
+📄 Licenza
+
+Questo progetto è distribuito sotto licenza MIT.
+
+👤 Autore
+
+Stefanus-dev
